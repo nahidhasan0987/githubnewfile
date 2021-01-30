@@ -1,0 +1,4 @@
+colour
+size
+company
+gender
